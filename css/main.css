@@ -19,9 +19,6 @@ body {
   padding: 15px 30px;
   font-size: 14px; }
 
-img {
-  width: 100%; }
-
 h3 {
   text-transform: uppercase;
   margin-bottom: 0; }
@@ -104,6 +101,8 @@ hr {
     .page-intro .button-page .btn-page:hover {
       background-color: #d6b161;
       border-color: #d6b161; }
+    .page-intro .button-page .page-photo img {
+      width: 100%; }
 
 .services {
   padding: 100px 0;
